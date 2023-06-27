@@ -1,0 +1,12 @@
+@import url(http:);
+html {
+scroll-behavior: smooth;
+}
+body {
+
+background-image: url(../images/pic1.webp);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+}
